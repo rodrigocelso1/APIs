@@ -59,9 +59,12 @@ The CTO of the Credit Union was really impressed with your work on this planner,
 Try adjusting the portfolio to either include more risk (a higher stock than bond ratio) or to have a larger initial investment and rerun the retirement analysis to see what it would take to retire in 5 or 10 years instead of 30!
 
 Retire in 5 years
+
 ![MC_5](Images/MC_stocks_5.png)
 
 Retire in 10 years
+
 ![MC_10](Images/MC_stocks_10.png)
+
 
 ![analysis](Images/financial_analysis.jpg)
