@@ -29,21 +29,13 @@ Use the starter Jupyter notebook to complete the following steps.
 
 Collect Crypto Prices Using the requests Library
 
-*Current AGG closing price: $117.88*
-
-*Current SPY closing price: $347.25*
-
 Create two variables called my_btc and my_eth. Set them equal to 1.2 and 5.3, respectively.
-
-*The current value of your 50 SPY shares is $17362.50*
-
-*The current value of your 200 AGG shares is $23576.00*
 
 Use the requests library to fetch the current price in Canadian dollars of bitcoin (BTC) and ethereum (ETH) using the Alternative Free Crypto API endpoints provided in the starter notebook.
 
 Compute the portfolio value of cryptocurrencies and print the results:
 
-![Savings](savings.png)
+![Savings](Images/savings.png)
 
 ### Part 2 - Retirement Planning
 
@@ -58,8 +50,18 @@ Configure and execute a Monte Carlo Simulation of 500 runs and 30 years for the 
 
 Plot the simulation results and the probability distribution/confidence intervals.
 
+![MC_30](Images/MC_stocks_30.png)
+
 ## Challenge - Early Retirement
 
 The CTO of the Credit Union was really impressed with your work on this planner, but commented that 30 years seems like such a long time to wait to retire! The CTO starts wondering if the retirement plan could be adjusted to account for an earlier than normal retirement.
 
 Try adjusting the portfolio to either include more risk (a higher stock than bond ratio) or to have a larger initial investment and rerun the retirement analysis to see what it would take to retire in 5 or 10 years instead of 30!
+
+Retire in 5 years
+![MC_5](Images/MC_stocks_5.png)
+
+Retire in 10 years
+![MC_10](Images/MC_stocks_10.png)
+
+![analysis](Images/financial_analysis.jpg)

@@ -1,0 +1,7 @@
+Early Retirement Analysis
+----------------------------
+To be able to retire in 5 years you would need to have an initial investment of $300000 considering 80% stocks (SPY) and 20% bonds (AGG) composition of the portfolio.It would give 95% chance it will be within the range of $762609.28 and $2906717.36 over the next 5 years.
+THIS WOULD BE A RISK TAKER PORTFOLIO
+----------------------------
+To be able to retire in 5 years you would need to have an initial investment of $200000 considering 70% stocks (SPY) and 30% bonds (AGG) composition of the portfolio.It would give 95% chance it will be within the range of $1403163.55 and $8170447.51 over the next 10 years.
+THIS WOULD BE A CONSERVATIVE PORTFOLIO TO RETIRE EARLY
